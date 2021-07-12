@@ -1,0 +1,16 @@
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.exe
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.deps.json
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.runtimeconfig.json
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.runtimeconfig.dev.json
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.dll
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\ref\new assignment.dll
+C:\Users\USERD\Desktop\new assignment\bin\Debug\net5.0\new assignment.pdb
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.csproj.AssemblyReference.cache
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.AssemblyInfoInputs.cache
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.AssemblyInfo.cs
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.csproj.CoreCompileInputs.cache
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.dll
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\ref\new assignment.dll
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.pdb
+C:\Users\USERD\Desktop\new assignment\obj\Debug\net5.0\new assignment.genruntimeconfig.cache
